@@ -1,0 +1,39 @@
+html{
+   background-color: #EEE;
+}
+
+main{
+   width: 100%;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#img-div{
+   background-color: #FFF;
+   margin: 15px;
+}
+
+img{
+   max-width: 100%;
+   display: block;
+   height: auto;
+   margin: auto;
+}
+
+#title{
+   margin-top: 20px;
+}
+
+#img-caption{
+   padding-bottom: 15px;
+}
+
+#tribute-info{
+   width:600px;
+   margin: auto;
+   text-align: left;
+}
+
+p.idez{
+   font-style: italic;
+}
